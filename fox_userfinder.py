@@ -20,7 +20,7 @@ def os_detect():
 
 try:
     from platform import system
-    from pyuseragents import random as rand
+    import pyuseragents
 except:
     os_detect()
 blu = "\033[96m"
@@ -31,7 +31,7 @@ res = "\033[0;m"
 HEADER = '\033[95m'
 lred = "\033[2;31;5m"
 
-user_agent = rand()
+user_agent = pyuseragents.random()
 
 ascii_art = f"""
 {red}          _.._       '         {ylw}Ay Ulduz
