@@ -3,8 +3,8 @@ Fox  User Finder OSINT Good For finding Username for hacking ......
 
 
 # Description : 
-## Good Tools for Find username from social media , websites to starting hacking !
-## get Status Of your user who used your username !
+> ~> Good Tools for Find username from social media , websites to starting hacking !
+> ~> get Status Of your user who used your username !
 
 ## Feature : 
 
