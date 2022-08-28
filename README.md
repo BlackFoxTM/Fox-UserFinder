@@ -1,5 +1,5 @@
 # Fox-UserFinder
-Fox  User Finder OSINT Good For finding Username for hacking ......
+~> Fox  User Finder OSINT Good For finding Username for hacking ......
 
 
 # Description : 
@@ -14,7 +14,7 @@ Fox  User Finder OSINT Good For finding Username for hacking ......
 
 > ~ More Than 100 Site for Find User !
 
-> Good Design & Fast
+> ~ Good Design & Fast
 
 
 ## Installation : 
