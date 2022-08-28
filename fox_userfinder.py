@@ -12,10 +12,10 @@ import sys
 
 def os_detect():
     if "win"in sys.platform:
-        term("pip install platform pyuseragents")
+        term("pip install pyuseragents")
         term("cls")
     else:
-        term("pip3 install platform pyuseragents")
+        term("pip3 install pyuseragents")
         term("clear")
 
 try:
