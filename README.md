@@ -19,9 +19,13 @@ Fox  User Finder OSINT Good For finding Username for hacking ......
 ## Installation : 
 
 `apt-get update && apt-get install python3 git`
+
 `pip3 install requests`
+
 `git clone https://github.com/BlackFoxTM/Fox-UserFinder/fox_userfinder.py`
+
 `cd fox-UserFinder`
+
 `python3 fox_userfinder.py`
 
 ### Telegram Channel ~> [Support Channel](https://t.me/BlackFoxSecurityTeam)
